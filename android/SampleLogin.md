@@ -1,4 +1,4 @@
-# Sample Login for Kotlin
+# 샘플 로그인 페이지 만들기
 
 `코틀린` , `RxJava`, `Realm` 으로 개발한 간단한 로그인 프로젝트 입니다.
 
